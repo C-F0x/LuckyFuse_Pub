@@ -1,8 +1,5 @@
 # Virtual Tablet
 
-[English](../en-US/virtual-tablet.md) | **简体中文**
-
-<!-- 一句话说明：LuckyFuse 为 Virtual Tablet 补充了什么 -->
 
 | 项目 | 内容 |
 | --- | --- |

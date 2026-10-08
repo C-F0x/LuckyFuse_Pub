@@ -1,9 +1,6 @@
 # Breeno Keyboard
 
-**English** | [简体中文](../zh-CN/breeno-keyboard.md)
-
-
-| | |
+| Name| Contents |
 | --- | --- |
 | Package | `com.oplus.keyboard` |
 | Source | OPPO App Market |

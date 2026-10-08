@@ -1,10 +1,6 @@
 # Virtual Tablet
 
-**English** | [简体中文](../zh-CN/virtual-tablet.md)
-
-<!-- One line: what LuckyFuse adds to Virtual Tablet -->
-
-| | |
+| Name| Contents |
 | --- | --- |
 | Package | `com.sunnysidesoft.VirtualTablet.lite` |
 | Source | [Google Play](https://play.google.com/store/apps/details?id=com.sunnysidesoft.VirtualTablet.lite) |

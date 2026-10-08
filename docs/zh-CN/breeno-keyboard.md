@@ -1,8 +1,5 @@
 # Breeno Keyboard（小布输入法）
 
-[English](../en-US/breeno-keyboard.md) | **简体中文**
-
-
 | 项目 | 内容 |
 | --- | --- |
 | 应用包名 | `com.oplus.keyboard` |
