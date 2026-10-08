@@ -11,7 +11,7 @@
 
 ## 功能
 
-### 液态玻璃
+### [液态玻璃 (点击预览)](https://github.com/user-attachments/assets/51fb888b-9fa4-42fe-9e29-a8ac28e2124a)
 
 解除作用域限制
 
@@ -21,7 +21,7 @@
 
 提供快捷预览按钮，修改实时生效
 
-### 键盘效果
+### [键盘效果 (点击预览)](https://github.com/user-attachments/assets/54431cfb-412a-42f2-915b-c0f2e4b21b34)
 
 对于 [Keys cafe](https://galaxystore.samsung.com/detail/com.samsung.android.keyscafe) 的光效/动效移植
 
@@ -41,3 +41,4 @@
 ```adb
 adb shell am force-stop com.oplus.keyboard
 ```
+
