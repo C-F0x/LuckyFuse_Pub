@@ -11,7 +11,7 @@
 
 ## Features
 
-### Liquid Glass
+### [Liquid Glass](../MISC/LiquidAssConfig.mp4)
 
 Removes the scope restriction
 
@@ -21,7 +21,7 @@ Custom light and dark mask color and opacity
 
 Quick preview button, changes take effect in real time
 
-### Keyboard Effects
+### [Keyboard Effects](../MISC/KeyscafePreview.mp4)
 
 A port of the light and motion effects from [Keys Cafe](https://galaxystore.samsung.com/detail/com.samsung.android.keyscafe)
 
